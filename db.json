@@ -1,60 +1,324 @@
 {
   "quotes": [
     {
-        "id": 1,
-        "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
-        "author": "Ann Richards"
+      "id": 1,
+      "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
+      "author": "Ann Richards",
+      "likes": 5
     },
     {
-        "id": 2,
-        "quote": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
-        "author": "Collin Powell"
+      "id": 2,
+      "quote": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
+      "author": "Collin Powell",
+      "likes": 2
     },
     {
-        "id": 3,
-        "quote": "Don't count the days, make the days count.",
-        "author": "Mike Tyson"
+      "id": 3,
+      "quote": "Don't count the days, make the days count.",
+      "author": "Mike Tyson",
+      "likes": 3
     },
     {
-        "id": 4,
-        "quote": "You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You are able to say to yourself, 'I have lived through this horror. I can take the next thing that comes along.' You must do the thing you think you cannot do.",
-        "author": "Eleanor Roosevelt"
+      "id": 4,
+      "quote": "You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You are able to say to yourself, 'I have lived through this horror. I can take the next thing that comes along.' You must do the thing you think you cannot do.",
+      "author": "Eleanor Roosevelt",
+      "likes": 2
     },
     {
-        "id": 5,
-        "quote": "The cure for boredom is curiosity. There is no cure for curiosity.",
-        "author": "Dorothy Parker"
+      "id": 5,
+      "quote": "The cure for boredom is curiosity. There is no cure for curiosity.",
+      "author": "Dorothy Parker",
+      "likes": 3
     },
     {
-        "id": 6,
-        "quote": "Do the best you can in every task, no matter how unimportant it may seem at the time. No one learns more about a problem than the person at the bottom.",
-        "author": "Sandra Day O'Connor"
+      "id": 6,
+      "quote": "Do the best you can in every task, no matter how unimportant it may seem at the time. No one learns more about a problem than the person at the bottom.",
+      "author": "Sandra Day O'Connor",
+      "likes": 1
     },
     {
-        "id": 7,
-        "quote": "Tell me and I forget, teach me and I remember, involve me and I learn.",
-        "author": "Benjamin Franklin"
+      "id": 7,
+      "quote": "Tell me and I forget, teach me and I remember, involve me and I learn.",
+      "author": "Benjamin Franklin",
+      "likes": 1
     },
     {
-        "id": 8,
-        "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
-        "author": "Winston Churchhill"
+      "id": 8,
+      "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+      "author": "Winston Churchhill",
+      "likes": 1
     },
     {
-        "id": 9,
-        "quote": "Our greatest glory is not in never falling, but in rising everytime we fall.",
-        "author": "Confucius"
+      "id": 9,
+      "quote": "Our greatest glory is not in never falling, but in rising everytime we fall.",
+      "author": "Confucius",
+      "likes": 1
     },
     {
-        "id": 10,
-        "quote": "You know, failure hurts. Any kind of failure stings. If you live in the sting, you will undoubtedly fail. My way of getting past the sting is to say no, I’m just not going to let this get me down.",
-        "author": "Sonia Sotomayor"
+      "id": 10,
+      "quote": "You know, failure hurts. Any kind of failure stings. If you live in the sting, you will undoubtedly fail. My way of getting past the sting is to say no, I’m just not going to let this get me down.",
+      "author": "Sonia Sotomayor",
+      "likes": 0
+    },
+    {
+      "author": "slim thug",
+      "quote": "Take a break from the fakes and put a thug in yo life",
+      "id": 11,
+      "likes": 0
+    },
+    {
+      "author": "Young Jeezy",
+      "quote": "Now who the -- wanna play with guns.",
+      "id": 12,
+      "likes": 1
+    },
+    {
+      "author": "me",
+      "quote": "why",
+      "likes": 1,
+      "id": 13
     }
   ],
   "likes": [
     {
-        "quoteId": 1,
-        "createdAt": 1558524356
+      "quoteId": 1,
+      "createdAt": 1558524356,
+      "id": 1
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1560277840314,
+      "id": 2
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1560277848125,
+      "id": 3
+    },
+    {
+      "quoteId": 3,
+      "createdAt": 1560277850949,
+      "id": 4
+    },
+    {
+      "quoteId": 5,
+      "createdAt": 1560277853516,
+      "id": 5
+    },
+    {
+      "quoteId": 4,
+      "createdAt": 1560277870846,
+      "id": 6
+    },
+    {
+      "quoteId": 4,
+      "createdAt": 1560277871006,
+      "id": 7
+    },
+    {
+      "quoteId": 4,
+      "createdAt": 1560277871141,
+      "id": 8
+    },
+    {
+      "quoteId": 4,
+      "createdAt": 1560277871274,
+      "id": 9
+    },
+    {
+      "quoteId": 4,
+      "createdAt": 1560277871584,
+      "id": 10
+    },
+    {
+      "quoteId": 4,
+      "createdAt": 1560277871762,
+      "id": 11
+    },
+    {
+      "quoteId": 4,
+      "createdAt": 1560277871924,
+      "id": 12
+    },
+    {
+      "quoteId": "4",
+      "createdAt": 1560279556697,
+      "id": 13
+    },
+    {
+      "quoteId": "4",
+      "createdAt": 1560279556881,
+      "id": 14
+    },
+    {
+      "quoteId": "3",
+      "createdAt": 1560279589905,
+      "id": 15
+    },
+    {
+      "quoteId": "3",
+      "createdAt": 1560279590524,
+      "id": 16
+    },
+    {
+      "quoteId": "3",
+      "createdAt": 1560279590683,
+      "id": 17
+    },
+    {
+      "quoteId": "3",
+      "createdAt": 1560279590964,
+      "id": 18
+    },
+    {
+      "quoteId": "4",
+      "createdAt": 1560279592512,
+      "id": 19
+    },
+    {
+      "quoteId": "4",
+      "createdAt": 1560279592687,
+      "id": 20
+    },
+    {
+      "quoteId": "4",
+      "createdAt": 1560279592855,
+      "id": 21
+    },
+    {
+      "quoteId": "2",
+      "createdAt": 1560279717664,
+      "id": 22
+    },
+    {
+      "quoteId": "2",
+      "createdAt": 1560279720275,
+      "id": 23
+    },
+    {
+      "quoteId": "2",
+      "createdAt": 1560279720460,
+      "id": 24
+    },
+    {
+      "quoteId": "2",
+      "createdAt": 1560279758927,
+      "id": 25
+    },
+    {
+      "quoteId": "2",
+      "createdAt": 1560279759705,
+      "id": 26
+    },
+    {
+      "quoteId": "2",
+      "createdAt": 1560279759882,
+      "id": 27
+    },
+    {
+      "quoteId": "2",
+      "createdAt": 1560279760027,
+      "id": 28
+    },
+    {
+      "quoteId": "2",
+      "createdAt": 1560279760187,
+      "id": 29
+    },
+    {
+      "quoteId": "2",
+      "createdAt": 1560279760347,
+      "id": 30
+    },
+    {
+      "quoteId": "2",
+      "createdAt": 1560279760501,
+      "id": 31
+    },
+    {
+      "quoteId": "2",
+      "createdAt": 1560279760669,
+      "id": 32
+    },
+    {
+      "quoteId": "2",
+      "createdAt": 1560279770353,
+      "id": 33
+    },
+    {
+      "quoteId": "2",
+      "createdAt": 1560279771074,
+      "id": 34
+    },
+    {
+      "quoteId": "2",
+      "createdAt": 1560279771243,
+      "id": 35
+    },
+    {
+      "quoteId": "2",
+      "createdAt": 1560279771402,
+      "id": 36
+    },
+    {
+      "quoteId": "2",
+      "createdAt": 1560279771589,
+      "id": 37
+    },
+    {
+      "quoteId": "2",
+      "createdAt": 1560279771765,
+      "id": 38
+    },
+    {
+      "quoteId": "2",
+      "createdAt": 1560279771924,
+      "id": 39
+    },
+    {
+      "quoteId": "1",
+      "createdAt": 1560280513154,
+      "id": 40
+    },
+    {
+      "quoteId": "2",
+      "createdAt": 1560280514395,
+      "id": 41
+    },
+    {
+      "quoteId": "3",
+      "createdAt": 1560280516866,
+      "id": 42
+    },
+    {
+      "quoteId": "3",
+      "createdAt": 1560280517042,
+      "id": 43
+    },
+    {
+      "quoteId": "7",
+      "createdAt": 1560280519374,
+      "id": 44
+    },
+    {
+      "quoteId": "8",
+      "createdAt": 1560280520704,
+      "id": 45
+    },
+    {
+      "quoteId": "9",
+      "createdAt": 1560280522412,
+      "id": 46
+    },
+    {
+      "quoteId": "12",
+      "createdAt": 1560280526535,
+      "id": 47
+    },
+    {
+      "quoteId": "13",
+      "createdAt": 1560280694390,
+      "id": 48
     }
   ]
 }
